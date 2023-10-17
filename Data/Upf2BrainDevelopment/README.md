@@ -10,14 +10,28 @@
 
 ## Description
 
-- RNA-seq
-  - Upf2 KO brain
-    - GEO: GSE??????
-  - Upf2 KO NPC
-    - GEO: GSE??????
-- snRNA-seq
-  - Upf2 KO brain
-    - GEO: GSE??????
+- Upf2_KO_NPC_RNAseq
+  - runtype: RNA-seq
+  - genotype: Upf2 flox/flox
+  - treatment: AAV9-Cre
+  - accession: GSE220459
+- Upf2_KO_Brain_RNAseq
+  - runtype: RNA-seq
+  - tissue: Brain
+  - age: E13.5
+  - genotype: Upf2 flox/flox; Emx1-cre
+  - accession: GSE220460
+- Upf2_KO_NPC_scRNAseq
+  - runtype: scRNA-seq
+  - genotype: Upf2 flox/flox
+  - treatment: AAV9-Cre
+  - accession: GSE220461
+- Upf2_KO_Brain_scRNAseq
+  - runtype: scRNA-seq
+  - tissue: Brain
+  - age: E15.5
+  - genotype: Upf2 flox/flox; Emx1-cre  
+  - accession: NA
 
 ## Data location in UCR HPCC
 
