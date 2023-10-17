@@ -1,0 +1,158 @@
+{
+	"title": "Celf4_Salamon_2023",
+	"accession": {
+		"GEO": "GSE214328",
+		"SRA": "SRP399982"
+	},
+	"analysis": {
+		"download": "01_1_download.sh",
+		"qc": "01_2_fastp.sh",
+		"mapping": "02_1_star.sh"
+	},
+	"samples": {
+		"SRR21736330": {
+			"title": "SRR21736330",
+			"tissue": "Neocortex",
+			"age": "P0",
+			"genotype": "Celf4 flox/flox",
+			"tag": "Polysome fraction",
+			"replicate": "1"
+		},
+		"SRR21736331": {
+			"title": "SRR21736331",
+			"tissue": "Neocortex",
+			"age": "P0",
+			"genotype": "Celf4 flox/flox",
+			"tag": "Monosome fraction",
+			"replicate": "1"
+		},
+		"SRR21736332": {
+			"title": "SRR21736332",
+			"tissue": "Neocortex",
+			"age": "P0",
+			"genotype": "Celf4 flox/flox",
+			"tag": "Input fraction",
+			"replicate": "1"
+		},
+		"SRR21736333": {
+			"title": "SRR21736333",
+			"tissue": "Neocortex",
+			"age": "P0",
+			"genotype": "Celf4 flox/flox; Emx1-Cre",
+			"tag": "Polysome fraction",
+			"replicate": "1"
+		},
+		"SRR21736334": {
+			"title": "SRR21736334",
+			"tissue": "Neocortex",
+			"age": "P0",
+			"genotype": "Celf4 flox/flox; Emx1-Cre",
+			"tag": "Monosome fraction",
+			"replicate": "1"
+		},
+		"SRR21736335": {
+			"title": "SRR21736335",
+			"tissue": "Neocortex",
+			"age": "P0",
+			"genotype": "Celf4 flox/flox; Emx1-Cre",
+			"tag": "Input fraction",
+			"replicate": "1"
+		},
+		"SRR21736336": {
+			"title": "SRR21736336",
+			"tissue": "Neocortex",
+			"age": "P0",
+			"genotype": "Celf4 flox/flox",
+			"tag": "Polysome fraction",
+			"replicate": "2"
+		},
+		"SRR21736337": {
+			"title": "SRR21736337",
+			"tissue": "Neocortex",
+			"age": "P0",
+			"genotype": "Celf4 flox/flox",
+			"tag": "Monosome fraction",
+			"replicate": "2"
+		},
+		"SRR21736338": {
+			"title": "SRR21736338",
+			"tissue": "Neocortex",
+			"age": "P0",
+			"genotype": "Celf4 flox/flox",
+			"tag": "Input fraction",
+			"replicate": "2"
+		},
+		"SRR21736339": {
+			"title": "SRR21736339",
+			"tissue": "Neocortex",
+			"age": "P0",
+			"genotype": "Celf4 flox/flox",
+			"tag": "Polysome fraction",
+			"replicate": "3"
+		},
+		"SRR21736340": {
+			"title": "SRR21736340",
+			"tissue": "Neocortex",
+			"age": "P0",
+			"genotype": "Celf4 flox/flox",
+			"tag": "Monosome fraction",
+			"replicate": "3"
+		},
+		"SRR21736341": {
+			"title": "SRR21736341",
+			"tissue": "Neocortex",
+			"age": "P0",
+			"genotype": "Celf4 flox/flox",
+			"tag": "Input fraction",
+			"replicate": "3"
+		},
+		"SRR21736342": {
+			"title": "SRR21736342",
+			"tissue": "Neocortex",
+			"age": "P0",
+			"genotype": "Celf4 flox/flox; Emx1-Cre",
+			"tag": "Polysome fraction",
+			"replicate": "2"
+		},
+		"SRR21736343": {
+			"title": "SRR21736343",
+			"tissue": "Neocortex",
+			"age": "P0",
+			"genotype": "Celf4 flox/flox; Emx1-Cre",
+			"tag": "Monosome fraction",
+			"replicate": "2"
+		},
+		"SRR21736344": {
+			"title": "SRR21736344",
+			"tissue": "Neocortex",
+			"age": "P0",
+			"genotype": "Celf4 flox/flox; Emx1-Cre",
+			"tag": "Input fraction",
+			"replicate": "2"
+		},
+		"SRR21736345": {
+			"title": "SRR21736345",
+			"tissue": "Neocortex",
+			"age": "P0",
+			"genotype": "Celf4 flox/flox; Emx1-Cre",
+			"tag": "Polysome fraction",
+			"replicate": "3"
+		},
+		"SRR21736346": {
+			"title": "SRR21736346",
+			"tissue": "Neocortex",
+			"age": "P0",
+			"genotype": "Celf4 flox/flox; Emx1-Cre",
+			"tag": "Monosome fraction",
+			"replicate": "3"
+		},
+		"SRR21736347": {
+			"title": "SRR21736347",
+			"tissue": "Neocortex",
+			"age": "P0",
+			"genotype": "Celf4 flox/flox; Emx1-Cre",
+			"tag": "Input fraction",
+			"replicate": "3"
+		}
+	}
+}
